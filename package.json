@@ -1,0 +1,1 @@
+{"description":"An agent that writes one pickup line one AI agent would send to another, for make.fun's Pickup Lines for Machines bounty.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"pickup-lines-for-machines","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
